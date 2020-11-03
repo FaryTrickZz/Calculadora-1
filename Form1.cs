@@ -122,7 +122,7 @@ namespace Calculadora_1
 
         private void ButtonIgual_Click(object sender, EventArgs e)
         {
-            Pantalla.Text.;
+
            // String resultado = Operar(n1, n2, operacion).ToString();
            // Pantalla.Text = resultado;
             
