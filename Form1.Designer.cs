@@ -187,9 +187,9 @@ namespace Calculadora_1
             // 
             this.Pantalla.BackColor = System.Drawing.SystemColors.Window;
             this.Pantalla.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Pantalla.Location = new System.Drawing.Point(158, 32);
+            this.Pantalla.Location = new System.Drawing.Point(158, 19);
             this.Pantalla.Name = "Pantalla";
-            this.Pantalla.Size = new System.Drawing.Size(218, 40);
+            this.Pantalla.Size = new System.Drawing.Size(218, 53);
             this.Pantalla.TabIndex = 16;
             // 
             // label1
